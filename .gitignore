@@ -1,0 +1,21 @@
+# Ignorar pasta de build do Maven
+/target/
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de compilação Java
+*.class
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configs locais do VS Code
+.vscode/
+
+# Ignorar configs do IntelliJ / IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
